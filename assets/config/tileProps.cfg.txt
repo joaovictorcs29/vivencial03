@@ -1,0 +1,12 @@
+# id  walkable  swapTo
+#    id: índice do tile (0…6) da esquerda pra direita no tilesetIso.png
+# walkable: true = tile pode ser pisado; false = bloqueado/perigoso
+# swapTo:  se ≥0 troca para aquele ID ao pisar; -1 = sem troca
+
+0    true      -1    # 0: areia clara (piso normal)
+1    true      -1    # 1: grama (piso normal)
+2    false     -1    # 2: rocha/terreno escuro (não atravessa)
+3    false     -1    # 3: lava/terreno laranja (perigoso)
+4    false     -1    # 4: água rasa (não atravessa)
+5    false     -1    # 5: água profunda (não atravessa)
+6    true      -1    # 6: terreno rosa (piso decorativo, atravessável)

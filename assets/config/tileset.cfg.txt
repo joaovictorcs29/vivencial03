@@ -1,0 +1,5 @@
+# tileset.cfg
+tileset=../assets/tilesetIso.png
+tileCount=7
+tileWidth=57
+tileHeight=114
