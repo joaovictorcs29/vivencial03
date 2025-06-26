@@ -1,3 +1,3 @@
 # Vivencial 03 
 
-**Integrantes:** Leonardo Eugenio, Nicolas Cezar, João Victor Costa.
+**Integrantes:** Leonardo Eugenio e João Victor Costa.
